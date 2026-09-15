@@ -5,10 +5,11 @@
 
 توفر لوحة التحكم التفاعلية (Interactive Dashboard) رؤية شاملة وتفصيلية للهيكل المالي للرواتب داخل المؤسسة، مما يسهم في دعم اتخاذ القرارات الإدارية الخاصة بالتخطيط المالي وتكلفة الموارد البشرية.
 
-<img width="2930" height="1569" alt="1" src="https://github.com/user-attachments/assets/c03f4575-843a-44c3-805a-3118837aad2d" />
-<img width="2930" height="1540" alt="2" src="https://github.com/user-attachments/assets/59c205f5-0e60-41d9-b197-4958ac984c21" />
-<img width="2930" height="1918" alt="3" src="https://github.com/user-attachments/assets/2d515c11-c77c-417a-815a-abf7f0ca1e53" />
-<img width="2930" height="1896" alt="4" src="https://github.com/user-attachments/assets/f0f3c1dc-4176-4714-a901-01306193f3b9" />
+<img width="2927" height="1502" alt="2" src="https://github.com/user-attachments/assets/c5106e36-a238-4e53-af28-2c016e8a73d2" />
+<img width="2930" height="1492" alt="1" src="https://github.com/user-attachments/assets/10eaba0e-d420-4736-ab60-280a36d520cc" />
+<img width="2930" height="1886" alt="3" src="https://github.com/user-attachments/assets/ac808c10-a5f6-4cf5-9c72-40f297966f4d" />
+<img width="2930" height="1508" alt="4" src="https://github.com/user-attachments/assets/42cb9d92-eb57-4901-bc95-9fc22a3548fc" />
+
 
 ## 📈 المؤشرات الرئيسية (Key KPIs)
 ---
